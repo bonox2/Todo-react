@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Todo title 1",
+      "body": "Todo body 1",
+      "done": false,
+      "createdAt": 1625415893385,
+      "updatedAt": null
+    }
+  ]
+}
